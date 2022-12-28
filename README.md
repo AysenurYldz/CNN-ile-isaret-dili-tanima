@@ -1,5 +1,4 @@
-# Derin-Orenme
-CNN ile İşaret Dili Tanıma
+# CNN ile İşaret Dili Tanıma
 Bu çalışmada American Sign Language veri seti kullanılmıştır. American Sign 
 Language veri seti ise 36 farklı sınıf ve 2515 görüntüden oluşmaktadır. Veri seri üzerinde 
 öncelikli olarak veri ön işleme adımları gerçekleştirilecektir. Bu işlemler ile modelin 
