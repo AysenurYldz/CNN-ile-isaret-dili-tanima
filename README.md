@@ -1,4 +1,3 @@
-# Derin Öğrenme Projeleri
 # Cnn kullanarak işaret dili tanıma 
 Bu çalışmada American Sign Language veri seti kullanılmıştır. American Sign 
 Language veri seti ise 36 farklı sınıf ve 2515 görüntüden oluşmaktadır. Veri seri üzerinde 
